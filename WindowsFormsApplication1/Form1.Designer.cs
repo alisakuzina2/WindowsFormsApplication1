@@ -86,8 +86,8 @@
             // 
             // btnLogin
             // 
-            this.btnLogin.BackColor = System.Drawing.Color.LightSkyBlue;
-            this.btnLogin.ForeColor = System.Drawing.SystemColors.Window;
+            this.btnLogin.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnLogin.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.btnLogin.Location = new System.Drawing.Point(410, 171);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(75, 23);
@@ -110,7 +110,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Pink;
+            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(516, 220);
             this.Controls.Add(this.btnRegister);
             this.Controls.Add(this.btnLogin);

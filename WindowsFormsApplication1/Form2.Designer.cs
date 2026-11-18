@@ -139,8 +139,8 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.LightSkyBlue;
-            this.button2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button2.Location = new System.Drawing.Point(218, 187);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(121, 23);
@@ -153,7 +153,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Pink;
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(440, 351);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label2);
