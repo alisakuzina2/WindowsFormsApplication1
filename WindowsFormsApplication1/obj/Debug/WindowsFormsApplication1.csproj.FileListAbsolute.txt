@@ -1,0 +1,12 @@
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+Z:\ИСПб-031\Кузнецова Алина\Моделирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Orders.accdb
